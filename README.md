@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Farhan Khalid 👋
 
-<!--
-**farhankhalidkayani/farhankhalidkayani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Bachelor of Science in Information Technology (BSIT) student at the University of Education, Lahore. I'm passionate about programming and web development. Currently, I'm diving into Data Structures and Algorithms (DSA) in C++ and the MERN Stack.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on DSA in C++ and MERN Stack
+- 💬 Ask me about Programming Fundamentals (PF) and Object-Oriented Programming (OOP) in C++
+- 📫 How to reach me: rj.farhan4232@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ My Skills
+- **Programming Languages:** C++
+- **Tools:** Git, GitHub
+
+## 🔗 Connect with Me
+https://www.linkedin.com/in/farhan-khalid-7283b825a/
