@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Web Development Projects<br>🌱 I’m currently learning MERN Stack and DSA<br>💬 Ask me about Programming Fundamentals (PF) and Object-Oriented Programming (OOP)
+🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Web Development Projects<br>🌱 I’m currently learning Web Development and DSA<br>💬 Ask me about Programming Fundamentals (PF) and Object-Oriented Programming (OOP)
 
 
 ## 🌐 Socials:
