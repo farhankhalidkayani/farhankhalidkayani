@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Backend development and DSA<br>
+🌱 I’m currently learning development and DSA<br>
 
 
 ## 🌐 Socials:
