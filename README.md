@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a dedicated BSIT student at the University of Education, Lahore, with a passion for software development. I have a solid foundation in programming, having completed courses in Programming Fundamentals (PF) and Object-Oriented Programming (OOP) ,I have learned C, C++, Python, HTML, CSS ,JavaScript, Bootstrap, Django , SQL, Node, Express, MongoDb, Mongoose ODM, REST Api . I am eager to apply my knowledge in real-world projects and am constantly seeking opportunities to grow and contribute to the tech community.<br>
+I specialize in building secure and high-performance backend systems, having developed the backend for multiple applications.
+
+Always open to learning, collaborating, and discussing innovative backend solutions!<br>
 
 
 ## 🌐 Socials:
