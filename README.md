@@ -1,22 +1,24 @@
-# 💫 About Me:
-I specialize in building secure and high-performance backend systems, having developed the backend for multiple applications.
+# Farhan Khalid
 
-Always open to learning, collaborating, and discussing innovative backend solutions!<br>
+Backend Software Engineer specializing in AI-integrated SaaS platforms and cloud-native architecture.
 
+Currently a **Technology Consultant** at **Hatzs Dimensions**, where I design backend and AI/LLM architecture for a multi-tenant automotive CRM platform. My production work includes:
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/FarhanKhalidKayaniiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/farhan-khalid-7283b825a) 
+- Building AI agent workflows with **OpenAI + LangGraph**, replacing a 100+ page monolithic prompt with a modular, graph-based architecture
+- Optimizing production **MySQL** workloads on **AWS RDS** — cut peak CPU utilization from ~99.9% to ~20%
+- Reducing a core chat query's latency from ~45s to ~3s through query and index optimization
+- Cutting AWS infrastructure spend by ~$1,100/month through infrastructure auditing and Fargate Spot adoption
+- Integrating Twilio, SendGrid, Stripe, Meta APIs, and Salesforce into a multi-tenant CRM handling ~400 leads/day per client
 
+Most of my client production work (DealerIQ, Befer) lives in private, client-owned repositories. The projects pinned here are my own independent builds:
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=farhankhalidkayani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=farhankhalidkayani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=farhankhalidkayani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- **[Envoy](https://github.com/farhankhalidkayani/Envoy)** — multi-tenant SaaS for deploying branded AI chat/voice agents on websites. NestJS/Prisma/BullMQ backend, tenant-isolated and tested against a real DB, async job pipelines, provider-abstracted LLM/STT/TTS/CRM integrations, Stripe-webhook billing.
+- **[HandyGo](https://github.com/farhankhalidkayani/HandyGo)** — on-demand home-services marketplace: 3 Flutter apps (customer/worker/admin) on one real-time Appwrite backend, with a zero-cost tiered LLM layer (Groq/Ollama) for intake and worker matching.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Currently expanding into:** Docker, Kubernetes, and distributed system design.
 
+### Stack
+`Node.js` `NestJS` `TypeScript` `Python` `MySQL` `PostgreSQL` `Redis` `AWS` `OpenAI / LangGraph` `Docker`
 
----
-[![](https://visitcount.itsvg.in/api?id=farhankhalidkayani&icon=0&color=0)](https://visitcount.itsvg.in)
-
+### Reach me
+[LinkedIn](https://www.linkedin.com/in/farhankhalidkayani/) · [Portfolio](https://farhankhalidkayani.vercel.app/) · rj.farhan4232@gmail.com
