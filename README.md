@@ -1,5 +1,5 @@
 # Farhan Khalid
-Senior Software Engineer / CTO at Hatzs Dimensions, Lahore.
+Senior Software Engineer at Hatzs Dimensions, Lahore.
 I build backend, cloud and AI systems for multi-tenant CRM platforms.
 
 **Currently building**
